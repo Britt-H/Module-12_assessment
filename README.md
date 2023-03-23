@@ -2,4 +2,4 @@
 
 ## Decoder ring assessment
 
-### Setup 3 alternate decode/encode functions for message enryption
+### Setup 3 alternate decode/encode functions for message encryption
